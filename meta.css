@@ -1,0 +1,688 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 4800px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Retngulo_1 {
+	opacity: 0.82;
+	fill: rgba(79,109,248,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1443px;
+	left: 0px;
+	top: 1457px;
+}
+#Retngulo_6 {
+	fill: rgba(0,7,48,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1706px;
+	left: 0px;
+	top: 2663px;
+}
+#Retngulo_2 {
+	fill: rgba(0,7,48,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1510px;
+	left: 0px;
+	top: 0px;
+}
+#Horror_video_game-rafiki {
+	position: absolute;
+	width: 717px;
+	height: 717px;
+	left: 58px;
+	top: 1780px;
+	overflow: visible;
+}
+#Componente_1__1 {
+	position: absolute;
+	width: 295px;
+	height: 76px;
+	left: 1545px;
+	top: 36px;
+	overflow: visible;
+}
+#Retngulo_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Login_ {
+	left: 91px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(112,112,112,1);
+}
+#Home {
+	left: 401px;
+	top: 54px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(245,207,207,1);
+}
+#Sobre_ns {
+	left: 1054px;
+	top: 54px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Loja {
+	left: 889px;
+	top: 54px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#New_games {
+	left: 608px;
+	top: 54px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Contactos {
+	left: 1321px;
+	top: 54px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#A_letter_logo_A_tech_electroni {
+	position: absolute;
+	width: 269px;
+	height: 269px;
+	left: 4px;
+	top: 0px;
+	overflow: visible;
+}
+#Explore_o_futuro_Que_tem_no__M {
+	left: 58px;
+	top: 390px;
+	position: absolute;
+	overflow: visible;
+	width: 846px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(239,239,239,1);
+}
+#Torne_Angola_um_mundo_de_games {
+	left: 58px;
+	top: 831px;
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(226,214,214,1);
+}
+#Componente_1__2 {
+	position: absolute;
+	width: 468px;
+	height: 76px;
+	left: 58px;
+	top: 911px;
+	overflow: visible;
+}
+#Retngulo_3_w {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_3_w {
+	position: absolute;
+	overflow: visible;
+	width: 468px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Jogue_conosco {
+	left: 100px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(112,112,112,1);
+}
+#Gen_Z-rafiki {
+	position: absolute;
+	width: 1064px;
+	height: 1064px;
+	left: 856px;
+	top: 178px;
+	overflow: visible;
+}
+#Retngulo_4 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 391px;
+	left: 0px;
+	top: 1242px;
+}
+#Grand_Theft_Auto_V_capa {
+	position: absolute;
+	width: 288px;
+	height: 353px;
+	left: 30px;
+	top: 1261px;
+	overflow: visible;
+}
+#ID20_games_3D {
+	left: 381px;
+	top: 1299px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 85px;
+	color: rgba(0,7,48,1);
+}
+#Grand_Theft_Auto_V_capa_ {
+	position: absolute;
+	width: 288px;
+	height: 353px;
+	left: 838px;
+	top: 1261px;
+	overflow: visible;
+}
+#ID60_Usurios_ {
+	left: 1314px;
+	top: 1299px;
+	position: absolute;
+	overflow: visible;
+	width: 369px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 85px;
+	color: rgba(0,7,48,1);
+}
+#ID1 {
+	position: absolute;
+	width: 443px;
+	height: 259px;
+	left: 848px;
+	top: 1746px;
+	overflow: visible;
+}
+#ID2 {
+	position: absolute;
+	width: 454.289px;
+	height: 259px;
+	left: 1390px;
+	top: 1746px;
+	overflow: visible;
+}
+#ID3 {
+	position: absolute;
+	width: 455.84px;
+	height: 259px;
+	left: 1388px;
+	top: 2111px;
+	overflow: visible;
+}
+#ID4 {
+	position: absolute;
+	width: 443px;
+	height: 254.243px;
+	left: 848px;
+	top: 2111px;
+	overflow: visible;
+}
+#Variedades_de_jogos_s_no_Metav {
+	left: 58px;
+	top: 2900px;
+	position: absolute;
+	overflow: visible;
+	width: 1034px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(214,217,238,1);
+}
+#Componente_2__1 {
+	position: absolute;
+	width: 533px;
+	height: 734px;
+	left: 88px;
+	top: 3387px;
+	overflow: visible;
+}
+#Retngulo_5 {
+	fill: rgba(64,123,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 533px;
+	height: 722px;
+	left: 0px;
+	top: 0px;
+}
+#Basketball-rafiki {
+	position: absolute;
+	width: 435px;
+	height: 435px;
+	left: 49px;
+	top: 299px;
+	overflow: visible;
+}
+#Jogos__Infantis {
+	left: 158px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 61px;
+	color: rgba(0,7,48,1);
+}
+#So_jogos_que__qualquer_criana_ {
+	left: 82px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(0,7,48,1);
+}
+#Componente_2__2 {
+	position: absolute;
+	width: 533px;
+	height: 734px;
+	left: 712px;
+	top: 3387px;
+	overflow: visible;
+}
+#Retngulo_5_bf {
+	fill: rgba(64,123,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_5_bf {
+	position: absolute;
+	overflow: visible;
+	width: 533px;
+	height: 722px;
+	left: 0px;
+	top: 0px;
+}
+#Basketball-rafiki_bg {
+	position: absolute;
+	width: 435px;
+	height: 435px;
+	left: 49px;
+	top: 299px;
+	overflow: visible;
+}
+#Jogos__para_18 {
+	left: 138px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 61px;
+	color: rgba(0,7,48,1);
+}
+#jogos_em_qualquer__dimenso {
+	left: 74px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(0,7,48,1);
+}
+#Componente_2__3 {
+	position: absolute;
+	width: 533px;
+	height: 734px;
+	left: 1311px;
+	top: 3387px;
+	overflow: visible;
+}
+#Retngulo_5_bk {
+	fill: rgba(64,123,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_5_bk {
+	position: absolute;
+	overflow: visible;
+	width: 533px;
+	height: 722px;
+	left: 0px;
+	top: 0px;
+}
+#Basketball-rafiki_bl {
+	position: absolute;
+	width: 435px;
+	height: 435px;
+	left: 49px;
+	top: 299px;
+	overflow: visible;
+}
+#Jogos_3D_Educacionais {
+	left: 83px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 369px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 61px;
+	color: rgba(0,7,48,1);
+}
+#So_jogos_que__qualquer_criana__bn {
+	left: 82px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(0,7,48,1);
+}
+#Retngulo_7 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 497px;
+	left: 0px;
+	top: 4217px;
+}
+#Fale_conosco {
+	left: 131px;
+	top: 4296px;
+	position: absolute;
+	overflow: visible;
+	width: 658px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(44,44,48,1);
+}
+#Retngulo_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 947px;
+	height: 95px;
+	left: 131px;
+	top: 4452px;
+}
+#Componente_1__3 {
+	position: absolute;
+	width: 340px;
+	height: 95px;
+	left: 1091px;
+	top: 4448px;
+	overflow: visible;
+}
+#Retngulo_3_bs {
+	fill: rgba(64,123,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_3_bs {
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#Enviar {
+	left: 113.5px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(255,253,253,1);
+}
+#Retngulo_9 {
+	fill: rgba(0,7,48,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 149px;
+	left: 0px;
+	top: 4654px;
+}
+#A_letter_logo_A_tech_electroni_bv {
+	position: absolute;
+	width: 141px;
+	height: 141px;
+	left: 890px;
+	top: 4659px;
+	overflow: visible;
+}
+#BY_Yango_2022 {
+	left: 1031px;
+	top: 4714px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,253,253,1);
+}
